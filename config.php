@@ -110,4 +110,10 @@ $MAX_WORD_LENGTH = 40;
 // than index.php. 
 $GUESTBOOK_URL_PATH = "index.php";
 
+//use mysql database
+$DB['user'] = 'wish';
+$DB['pwd'] = '123456';
+$DB['host'] = 'localhost';
+$DB['db'] = 'wish';
+
 ?>
